@@ -6,7 +6,7 @@ export default defineConfig({
     exclude: ["dist/**", "node_modules/**"],
     coverage: {
       provider: "v8",
-      include: ["src/services/campaignTaxonomyGovernorService.ts"],
+      include: ["src/services/**"],
       reporter: ["text", "text-summary", "json-summary"],
       thresholds: {
         statements: 60,

@@ -10,9 +10,9 @@ One cold/warm message per repo at STATE 5, logged below.
 
 - **Company:**
 - **Contact / role:**
-- **ICP segment:** (B2B SaaS growth team / RevOps / lifecycle marketing ops)
-- **Trigger / hook:** (UTM drift, attribution breaks, naming inconsistency, launch delays)
-- **Angle:** (which surface — taxonomy lane, audience risks, launch readiness — maps to their pain)
+- **ICP segment:** (GovTech / RegTech / regulated enterprise policy team)
+- **Trigger / hook:** (active rulemaking, comment deadline, compliance pain)
+- **Angle:** (which surface — comment lane, obligation map, approval posture — maps to their pain)
 - **Channel:** (email / LinkedIn / warm intro)
 - **KG Embedded tie-back:** (kineticgain.com/embedded)
 
